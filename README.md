@@ -1,4 +1,4 @@
-Pour explorer la *story* (https://public.tableau.com/authoring/Productionscientifique/Analysedelaproductionscientifique#1).
+Pour explorer la *story* (https://public.tableau.com/app/profile/baptiste.lazarus/viz/Productionscientifique/Analysedelaproductionscientifique?publish=yes).
 
 # Visualisation de données
 
@@ -47,4 +47,4 @@ Ce fichier comporte les variables suivantes :
 
 > Nous avons notre première *story*, permettant aux utilisateurs d'explorer les données.
 
-Pour explorer la *story* (https://public.tableau.com/authoring/Productionscientifique/Analysedelaproductionscientifique#1).
+Pour explorer la *story* (https://public.tableau.com/app/profile/baptiste.lazarus/viz/Productionscientifique/Analysedelaproductionscientifique?publish=yes).
